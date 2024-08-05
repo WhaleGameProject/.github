@@ -1,5 +1,7 @@
 # 🐋 Whale Games 🐋
 
+**https://whalegameproject.github.io/WhaleGames/index.html**
+
 ## Here at Whale Games, we make it easy to play open source online games! 🚀
 
 # About us:
