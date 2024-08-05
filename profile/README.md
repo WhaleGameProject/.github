@@ -1,12 +1,12 @@
-## Hi there 👋
+# 🐋 Whale Games 🐋
 
-<!--
+## Here at Whale Games, we make it easy to play open source online games! 🚀
 
-**Here are some ideas to get you started:**
+# About us:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### We are gamers and developers who LOVE open source projects. 🐳
+
+### We understand that no one wants to play laggy games, so we try to aim for 30 fps or more on all our games (fps may lower depending on device) 🐋
+
+# 🐳 Whale Games 🐳
+### Your gateway to open source games.
