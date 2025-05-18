@@ -5,9 +5,10 @@
 # About us:
 
 ### We are gamers and developers who LOVE open source projects. 🐳
+## At Whale Games, we understand what you gamers want! because we ourselves, are also gamers who just want to make the gaming experience better!
 
-### We understand that no one wants to play laggy games, so we try to aim for 30 fps or more on all our games (fps may lower depending on device) 🐋
 
 # 🐳 Whale Games 🐳
 ### Your gateway to open source games.
 
+*Est August 2024*
